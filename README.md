@@ -170,5 +170,6 @@ $ git clone https://github.com/nishitpatel01/Fake_News_Detection.git
 
 ![Project Screenshot](original.png)
 
+
    - Once you hit the enter, program will take user input (news headline) and will be used by model to classify in one of  categories of "True" and "False". Along with classifying the news headline, model will also provide a probability of truth associated with it.
 
